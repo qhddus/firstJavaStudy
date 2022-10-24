@@ -53,5 +53,6 @@ public class StringCheck {
 		//3, other 		존재하는지를 확인할 문자열을 의미
 		//4, ooffset	other객체의 확인 시작 위치를 지정
 		//5, len		비교할 char의 개수를 지정
+		//매개변수가 4개일경우 1번 생략
 	}
 }
